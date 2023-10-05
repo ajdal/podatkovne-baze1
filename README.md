@@ -1,2 +1,4 @@
 # podatkovne-baze1
 Repozitorij pri predmetu Podatkovne Baze
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget magna fermentum iaculis eu non diam phasellus. Dignissim suspendisse in est ante in nibh mauris cursus. Pharetra vel turpis nunc eget lorem dolor sed. Eu non diam phasellus vestibulum lorem sed. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Quisque egestas diam in arcu cursus euismod. Arcu odio ut sem nulla pharetra diam. Mi in nulla posuere sollicitudin. Sapien et ligula ullamcorper malesuada. Eget mi proin sed libero enim sed faucibus turpis in. Viverra vitae congue eu consequat ac. Cras adipiscing enim eu turpis egestas pretium aenean pharetra magna. Lacus luctus accumsan tortor posuere. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor.
