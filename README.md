@@ -7,3 +7,4 @@ Repozitorij, na katerem bodo objavljeni zapiski in gradiva za vaje pri predmetu 
 * [Združevanje (GROUP BY in združevalne funkcije)](vaje-2023-10-19.md)
 * [Stikanje](vaje-2023-10-26.md)
 * [Ustvarjanje tabel](vaje-2023-11-02.md)
+* [Dodajanje, spreminjanje, brisanje podatkov](vaje-2023-11-09.md)
